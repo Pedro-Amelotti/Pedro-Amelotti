@@ -48,15 +48,6 @@
 
 ---
 
-### Featured Projects
-- **Project #1** — one-line value statement + tech (e.g., “High-converting landing page with fast load and clean UI — HTML/SCSS/JS”)
-- **Project #2** — one-line value statement + tech (e.g., “DNS + redirects setup for multi-domain routing — Cloudflare”)
-- **Project #3** — one-line value statement + tech (e.g., “Reusable UI components for marketing pages — SCSS + vanilla JS”)
-- **Project #4** — one-line value statement + tech (e.g., “Deployment & hosting workflow improvements — cPanel/Linux”)
-
-
----
-
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/pedro-amelotti-635b071b0/
 - Email: pedro.vamelotti@gmail.com
