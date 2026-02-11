@@ -48,18 +48,6 @@
 
 ---
 
-### Stats
-<p align="center">
-  <img height="160" alt="GitHub Stats"
-src="https://github-readme-stats.vercel.app/api?username=pedro-amelotti&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
-
-<img height="160" alt="Top Languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-amelotti&layout=compact&langs_count=6&hide=html,css" />
-
-</p>
-
----
-
 ### Featured Projects
 - **Project #1** — one-line value statement + tech (e.g., “High-converting landing page with fast load and clean UI — HTML/SCSS/JS”)
 - **Project #2** — one-line value statement + tech (e.g., “DNS + redirects setup for multi-domain routing — Cloudflare”)
