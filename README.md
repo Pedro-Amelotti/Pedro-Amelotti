@@ -50,16 +50,12 @@
 
 ### Stats
 <p align="center">
-  <img
-    height="160"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=pedro-amelotti&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="160"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-amelotti&layout=compact&langs_count=8"
-  />
+  <img height="160" alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=pedro-amelotti&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
+
+<img height="160" alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-amelotti&layout=compact&langs_count=6&hide=html,css" />
+
 </p>
 
 ---
