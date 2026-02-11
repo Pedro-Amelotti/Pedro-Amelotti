@@ -3,7 +3,7 @@
 <h1 align="center">Pedro Amelotti</h1>
 <p align="center">
   <b>Web Developer | Infrastructure & Cloud Ops</b><br/>
-  Landing Pages • DNS/Cloudflare • UI Implementation
+  UI Implementation • Landing Pages • Cloudflare/DNS
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ---
 
 ### What I do
-- Build fast, responsive landing pages and marketing sites (HTML/CSS/SCSS/JS)
-- Implement clean UI with attention to spacing, typography, and performance
-- Handle day-to-day infrastructure and cloud ops: DNS, redirects, SSL, hosting & cPanel workflows
+- Implement clean, responsive UI (HTML/CSS/SCSS) with attention to typography and spacing
+- Build landing pages and marketing sites focused on speed and clarity
+- Handle cloud ops essentials: DNS, redirects, SSL, hosting & cPanel workflows
 
 ---
 
@@ -65,12 +65,11 @@
 ---
 
 ### Featured Projects
-> (Placeholders — I’ll replace these with your real projects)
+- **Project #1** — one-line value statement + tech (e.g., “High-converting landing page with fast load and clean UI — HTML/SCSS/JS”)
+- **Project #2** — one-line value statement + tech (e.g., “DNS + redirects setup for multi-domain routing — Cloudflare”)
+- **Project #3** — one-line value statement + tech (e.g., “Reusable UI components for marketing pages — SCSS + vanilla JS”)
+- **Project #4** — one-line value statement + tech (e.g., “Deployment & hosting workflow improvements — cPanel/Linux”)
 
-- **Project #1** — short description (what it does + value)
-- **Project #2** — short description (what it does + value)
-- **Project #3** — short description (what it does + value)
-- **Project #4** — short description (what it does + value)
 
 ---
 
