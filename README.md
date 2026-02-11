@@ -1,1 +1,79 @@
+<!-- Profile README for pedro-amelotti -->
 
+<h1 align="center">Pedro Amelotti</h1>
+<p align="center">
+  <b>Web Developer | Infrastructure & Cloud Ops</b><br/>
+  Landing Pages • DNS/Cloudflare • UI Implementation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-amelotti-635b071b0/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Amelotti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pedro.vamelotti@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pedro.vamelotti%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### What I do
+- Build fast, responsive landing pages and marketing sites (HTML/CSS/SCSS/JS)
+- Implement clean UI with attention to spacing, typography, and performance
+- Handle day-to-day infrastructure and cloud ops: DNS, redirects, SSL, hosting & cPanel workflows
+
+---
+
+### Core Skills
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=white" />
+  <img alt="SCSS" src="https://img.shields.io/badge/Sass-111111?style=flat&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
+</p>
+
+### Infrastructure & Tools
+<p>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-111111?style=flat&logo=cloudflare&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white" />
+  <img alt="cPanel" src="https://img.shields.io/badge/cPanel-111111?style=flat&logo=cpanel&logoColor=white" />
+  <img alt="Hosting" src="https://img.shields.io/badge/Hosting%20%26%20Deploy-111111?style=flat&logo=server-fault&logoColor=white" />
+  <img alt="DNS" src="https://img.shields.io/badge/DNS%20%26%20SSL-111111?style=flat&logo=letsencrypt&logoColor=white" />
+  <img alt="Keepcloud" src="https://img.shields.io/badge/Keepcloud-111111?style=flat&logo=cloud&logoColor=white" />
+  <img alt="HostGator" src="https://img.shields.io/badge/HostGator-111111?style=flat&logo=cloudways&logoColor=white" />
+  <img alt="Orange" src="https://img.shields.io/badge/Orange-111111?style=flat&logo=orange&logoColor=white" />
+</p>
+
+---
+
+### Stats
+<p align="center">
+  <img
+    height="160"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=pedro-amelotti&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="160"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-amelotti&layout=compact&langs_count=8"
+  />
+</p>
+
+---
+
+### Featured Projects
+> (Placeholders — I’ll replace these with your real projects)
+
+- **Project #1** — short description (what it does + value)
+- **Project #2** — short description (what it does + value)
+- **Project #3** — short description (what it does + value)
+- **Project #4** — short description (what it does + value)
+
+---
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/pedro-amelotti-635b071b0/
+- Email: pedro.vamelotti@gmail.com
